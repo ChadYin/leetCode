@@ -75,6 +75,9 @@ public class Middle1 {
 	 * test
 	 */
 	public static void main(String[] args) {
+		/*
+		 * 我的答案测试
+		 */
 		Middle1 m = new Middle1();
 		List<Integer> l1 = new ArrayList<>();
 		l1.add(9);
@@ -83,6 +86,9 @@ public class Middle1 {
 		l2.add(4);
 		System.out.println(m.addTwoNumbers(l1,l2));
 		
+		/*
+		 * 正确答案测试
+		 */
 //		ListNode a = m.new ListNode(101);
 //		ListNode b = m.new ListNode(211);
 //		
