@@ -81,7 +81,6 @@ public class Middle1 {
 		l1.add(9);
 		List<Integer> l2 = new ArrayList<>();
 		l2.add(4);
-		//102+234
 		System.out.println(m.addTwoNumbers(l1,l2));
 //		ListNode a = m.new ListNode(101);
 //		ListNode b = m.new ListNode(211);
